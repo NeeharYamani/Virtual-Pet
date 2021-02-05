@@ -1,1 +1,1 @@
-# Virtual-pet-2-c36
+# Virtual pet-c36
